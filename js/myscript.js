@@ -7,7 +7,7 @@ const cognome = prompt('Inserisci il tuo cognome');
 const colore = prompt('Inserisci il tuo colore preferito');
 // console.log(colore);
 
-const numero = 5;
+const numero = 21;
 // console.log(numero);
 
 let passwordGen;
